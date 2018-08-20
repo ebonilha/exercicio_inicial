@@ -4,4 +4,12 @@ Primeira linha para teste
 
 Terceiro commit no arquivo
 
+<<<<<<< HEAD
 Nova linha na branch feature
+=======
+Nova linha na branch feature
+
+===============================
+
+só no feature
+>>>>>>> feature

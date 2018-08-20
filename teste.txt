@@ -1,4 +1,4 @@
-Arquivo de teste para merge, agora com um branch "feature"
+Este é o arquivo de teste para merge, agora com um branch "feature"
 
 Primeira linha para teste
 
