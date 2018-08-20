@@ -3,3 +3,5 @@ Arquivo de teste para merge, agora com um branch "feature"
 Primeira linha para teste
 
 Terceiro commit no arquivo
+
+Nova linha na branch feature
